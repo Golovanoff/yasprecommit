@@ -13,7 +13,7 @@ yet another simplest precommit for 1c
 3. Модули ванскрипта: v8runner, gitrunner, v8unpack, fs.
  
 ## Особенности:
-Написан на OneScript. Андрею Овсянкину @theEvilBeaver - огромное спасибо и всяческие уважухи.
+Написан на OneScript. Андрею Овсянкину https://github.com/EvilBeaver - огромное спасибо и всяческие уважухи.
 
 За основу были взяты v8files-extractor.os из пакета https://github.com/oscript-library/precommit1c, но от него практически ничего не осталось. И скриптик разборки обычных форм от https://github.com/silverbulleters.
 
